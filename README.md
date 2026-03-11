@@ -18,10 +18,7 @@ Sou um desenvolvedor apaixonado por otimizar processos e criar soluções comple
 ### 🚀 Projetos em Destaque
 
 * **🎨 Dashboard Tattoo:** Um painel de gerenciamento moderno criado com **Next.js, Tailwind CSS e JavaScript**, focado em uma interface limpa, ágil e responsiva.
-* **🖼️ Compressor de Imagens:** Ferramenta web desenvolvida com **Next.js e Tailwind CSS** para otimização rápida e eficiente de arquivos de imagem.
-* **📊 Curso de Pandas:** Repositório (`curso_pandas`) dedicado ao meu aprofundamento técnico em análise e manipulação de dados com Python.
-
----
+* **🖼️ Compressor de Imagens:** Ferramenta web desenvolvida com **Next.js e Tailwind CSS** para otimização rápida e eficiente de arquivos de 
 
 ### 🛠️ Tecnologias e Ferramentas
 
