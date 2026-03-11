@@ -3,7 +3,7 @@
 
 🚀 **Desenvolvedor focado em Automação, Dados e Full Stack | Estudante de ADS**
 
-Sou um desenvolvedor apaixonado por otimizar processos e criar soluções completas. Tenho **8 meses de experiência prática** construindo automações e lidando com dados. Atualmente, busco evoluir na criação de arquiteturas backend escaláveis e de fácil manutenção, automaçoes de processos chatos do dia a dia, e resolvendo problemas com automaçoe.
+Sou um desenvolvedor apaixonado por otimizar processos e criar soluções completas. Tenho **8 meses de experiência prática** construindo automações e lidando com dados. Atualmente, busco evoluir na criação de arquiteturas backend escaláveis e de fácil manutenção, automaçoes de processos chatos do dia a dia, e resolvendo problemas com automaçoes.
 ### 💻 Sobre mim
 
 - 🎓 Cursando o **5º semestre de Análise e Desenvolvimento de Sistemas (ADS)**.
@@ -18,7 +18,7 @@ Sou um desenvolvedor apaixonado por otimizar processos e criar soluções comple
 ### 🚀 Projetos em Destaque
 
 * **🎨 Dashboard Tattoo:** Um painel de gerenciamento moderno criado com **Next.js, Tailwind CSS e JavaScript**, focado em uma interface limpa, ágil e responsiva.
-* **🖼️ Compressor de Imagens:** Ferramenta web desenvolvida com **Next.js e Tailwind CSS** para otimização rápida e eficiente de arquivos de 
+* **🖼️ Compressor de Imagens:** Ferramenta web desenvolvida com **Next.js e Tailwind CSS** para otimização rápida e eficiente de arquivos de imagem
 
 ### 🛠️ Tecnologias e Ferramentas
 
