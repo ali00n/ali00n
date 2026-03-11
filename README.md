@@ -45,7 +45,7 @@ Sou um desenvolvedor apaixonado por otimizar processos e criar soluções comple
   <a href="mailto:alissonalmeidaa345@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="[LINK_DO_SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/alisson-ribeiro-b3366b1a7/)" target="_blank">
+  <a href="https://www.linkedin.com/in/alisson-ribeiro-b3366b1a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
