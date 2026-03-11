@@ -3,8 +3,7 @@
 
 🚀 **Desenvolvedor focado em Automação, Dados e Full Stack | Estudante de ADS**
 
-Sou um desenvolvedor apaixonado por otimizar processos e criar soluções completas. Tenho **8 meses de experiência prática** construindo automações e lidando com dados. Atualmente, busco evoluir na criação de arquiteturas backend robustas, escaláveis e de fácil manutenção, enquanto também desenvolvo interfaces web modernas.
-
+Sou um desenvolvedor apaixonado por otimizar processos e criar soluções completas. Tenho **8 meses de experiência prática** construindo automações e lidando com dados. Atualmente, busco evoluir na criação de arquiteturas backend escaláveis e de fácil manutenção, automaçoes de processos chatos do dia a dia, e resolvendo problemas com automaçoe.
 ### 💻 Sobre mim
 
 - 🎓 Cursando o **5º semestre de Análise e Desenvolvimento de Sistemas (ADS)**.
